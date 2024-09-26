@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    color: aliceblue;
+    background-color: #2b2b2b;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.thumbnails {
+    width: 500px;
+    height: auto;  
+    
+  }
+  
